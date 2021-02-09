@@ -55,15 +55,15 @@ def interface_on():
 
 	
 
-#---shutting eth0 card---#
+#---shutting down card---#
 
 interface_off()
 
-#---changing mac address of eth0 interface---#
+#---changing mac address of interface---#
 
 mac_chng()
 
-#---rebooting eth0 interface----#
+#---rebooting interface----#
 
 interface_on()
 
